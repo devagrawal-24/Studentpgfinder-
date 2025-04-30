@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Sunshine PG",
+    "location": "Near LNCT University",
+    "price": 5000,
+    "facilities": [
+      "Free Wi-Fi",
+      "Breakfast",
+      "Laundry",
+      "Security",
+      "Three meals a day"
+    ],
+    "contact": "9876543210"
+  },
+  {
+    "name": "Green Nest Hostel",
+    "location": "1km from Campus",
+    "price": 4500,
+    "facilities": [
+      "Wi-Fi",
+      "Power Backup",
+      "Security",
+      "Three meals a day"
+    ],
+    "contact": "9123456789"
+  },
+  {
+    "name": "Silver Oak PG",
+    "location": "5 minutes walk from LNCT",
+    "price": 6000,
+    "facilities": [
+      "Air-conditioned rooms",
+      "Laundry",
+      "24/7 water supply",
+      "CCTV",
+      "Three meals a day"
+    ],
+    "contact": "8234567890"
+  },
+  {
+    "name": "City Hostel",
+    "location": "Opposite City Mall",
+    "price": 4000,
+    "facilities": [
+      "Free Wi-Fi",
+      "24/7 food",
+      "Security",
+      "Library",
+      "Three meals a day"
+    ],
+    "contact": "9988776655"
+  },
+  {
+    "name": "Royal PG",
+    "location": "Near MP Nagar",
+    "price": 7000,
+    "facilities": [
+      "Air-conditioned rooms",
+      "Gym",
+      "Library",
+      "Food available",
+      "Three meals a day"
+    ],
+    "contact": "9567891234"
+  },
+  {
+    "name": "Comfort PG",
+    "location": "Sector 6, Hoshangabad Road",
+    "price": 5500,
+    "facilities": [
+      "Free Wi-Fi",
+      "Power backup",
+      "Laundry",
+      "Security",
+      "Three meals a day"
+    ],
+    "contact": "9654321234"
+  },
+  {
+    "name": "Campus Comfort",
+    "location": "Behind College Auditorium",
+    "price": 4800,
+    "facilities": [
+      "Wi-Fi",
+      "Study Room",
+      "Public Transport Nearby",
+      "Three meals a day"
+    ],
+    "contact": "9012345678"
+  },
+  {
+    "name": "Elite PG",
+    "location": "MG Road",
+    "price": 8000,
+    "facilities": [
+      "AC Rooms",
+      "Gym",
+      "Rooftop Lounge",
+      "Three meals a day"
+    ],
+    "contact": "9345612780"
+  },
+  {
+    "name": "Horizon Hostel",
+    "location": "Lake View Road",
+    "price": 6500,
+    "facilities": [
+      "Free Wi-Fi",
+      "CCTV",
+      "Garden Area",
+      "Three meals a day"
+    ],
+    "contact": "9456123780"
+  }
+]

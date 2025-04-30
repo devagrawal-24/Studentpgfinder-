@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" spacing="10.0" padding="15.0"
+      fx:controller="com.studentpgfinder.controllers.HostelSearchController">
+
+    <Label text="Search PGs & Hostels" style="-fx-font-size: 16;" />
+    
+    <HBox spacing="10.0">
+        <Label text="Location:"/>
+        <ComboBox fx:id="locationComboBox"/>
+    </HBox>
+
+    <HBox spacing="10.0">
+        <Label text="Max Budget:"/>
+        <ComboBox fx:id="budgetComboBox"/>
+    </HBox>
+
+    <HBox spacing="10.0">
+        <CheckBox fx:id="mealsCheckBox" text="Include meals" />
+    </HBox>
+
+    <Button fx:id="searchButton" text="Search" onAction="#handleSearch"/>
+    <ListView fx:id="resultsList" prefHeight="200.0"/>
+
+</VBox>

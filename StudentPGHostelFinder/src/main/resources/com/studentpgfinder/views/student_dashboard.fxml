@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.studentpgfinder.controllers.StudentDashboardController">
+    <top>
+        <Label text="Welcome to Student PG Finder" style="-fx-font-size: 16;" BorderPane.alignment="CENTER"/>
+    </top>
+    <center>
+        <ListView fx:id="resultsList" prefHeight="300.0"/>
+    </center>
+    <bottom>
+        <Button fx:id="searchButton" text="Load Hostels" onAction="#handleSearch" maxWidth="Infinity"/>
+    </bottom>
+</BorderPane>
